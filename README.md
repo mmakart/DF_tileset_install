@@ -2,6 +2,20 @@
 
 В настоящее время, в версии 50.09, возможна установка только обычных, не графических тайлсетов. Примеры графических: Phoebus, Ironhand, Meph. Также, установка тайлсета шириной более 12 пикселей приводит к выходу элементов интерфейса за пределы окна.
 
+## Пример тайлсета 12x12 (Alloy curses)
+
+Стандартный тайлсет
+
+![](default_ASCII.png)
+
+Alloy\_curses\_12x12.png
+
+![](alternative_tileset.png)
+
+[mmakart\_curses\_12x12.png](mmakart_curses_12x12.png)
+
+![](mmakarts_tileset.png)
+
 ## Что нужно иметь
 
 * Dwarf Fortress версии 50.04 или выше (бесплатная версия, скачать можно на [официальном сайте](http://bay12games.com/dwarves/older_versions.html)).
